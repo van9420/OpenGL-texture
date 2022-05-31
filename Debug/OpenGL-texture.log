@@ -1,0 +1,4 @@
+﻿  opengl-texture.cpp
+D:\Project\VS\学习C++\摄像头历史记录\我的博客源码\OpenGL-texture\opengl-texture.cpp(73,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Project\VS\学习C++\摄像头历史记录\我的博客源码\OpenGL-texture\opengl-texture.cpp(260,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  OpenGL-texture.vcxproj -> D:\Project\VS\学习C++\摄像头历史记录\我的博客源码\OpenGL-texture\Debug\OpenGL-texture.exe
